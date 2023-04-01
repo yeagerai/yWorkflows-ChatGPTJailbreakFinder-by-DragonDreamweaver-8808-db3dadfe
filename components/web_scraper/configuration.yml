@@ -1,0 +1,6 @@
+description: Scrapes the target website https://www.jailbreakchat.com/ and filters
+  the list by JB score. Parses the top 10 prompts and sends them to the Google Sheet.
+name: WebScraper
+parameters:
+  google_sheet_id: ''
+  sheet_name: Sheet1
