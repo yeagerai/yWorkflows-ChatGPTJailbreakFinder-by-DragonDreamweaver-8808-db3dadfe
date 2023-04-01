@@ -1,0 +1,7 @@
+description: This component is designed to extract the top 10 jailbreaks from a target
+  website and update the Google Sheet with new information. It takes in the target
+  website URL and Google Sheet ID, scrapes the relevant information, and then updates
+  the corresponding Google Sheet with the obtained jailbreak data. Finally, it outputs
+  the updated list of top 10 jailbreaks.
+name: ChatGPTJailbreakFinder
+parameters: {}
